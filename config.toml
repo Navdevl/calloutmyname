@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Call out my name. (Incomplete)"
-theme = "journal"
 
 [author]
   name = "Aslam"
