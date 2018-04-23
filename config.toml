@@ -1,15 +1,13 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Call out my name. (Incomplete)"
-
 [author]
-  name = "Aslam"
-  homepage = "/"
-
+homepage = "/"
+name = "Aslam"
 [params]
-  description = "Experimental writing.."
-  tagline = "I could hear her voice."
+description = "Experimental writing.."
+tagline = "I could hear her voice."
 [params.work]
-  jobTitle = "writer"
-  company = "his own world"
-  companyUrl = "https://www.instagram.com/lucy_in.the_sky.with_diamonds_/"
+company = "his own world"
+companyurl = "https://www.instagram.com/lucy_in.the_sky.with_diamonds_/"
+jobtitle = "writer"
