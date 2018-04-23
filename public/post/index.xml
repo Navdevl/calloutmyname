@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Call out my name. (Incomplete)</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Call out my name. (Incomplete)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/post/chapter-2/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/chapter-2/</guid>
+      <description>The Beach I sat on my Black Royal Enfield, plugged the left ear pod into my left ear and let the other one around my neck hanging along my right chest. Then I put my open faced helmet on and adjusted it to perfect my vision. I took my phone out of my pocket to look at the time. It was 7.30 PM. I opened the music player and hit the shuffle.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/post/chapter-1/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/chapter-1/</guid>
+      <description>The Dream The wind blew heavily on my cheeks. The descending rays of the sunset kept me calm. Not having any idea of how I got here, I start to walk. The reflection of the sun glimmers on the lake to my left. Despite all these beautiful phenomenon, I feel a sense of fear. Why though? Is something bad going to happen?
+Then I felt something, something that was not present before.</description>
+    </item>
+    
+  </channel>
+</rss>
