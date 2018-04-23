@@ -1,3 +1,16 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Call out my name. (Incomplete)"
+theme = "journal"
+
+[author]
+  name = "Aslam"
+  homepage = "/"
+
+[params]
+  description = "Experimental writing.."
+  tagline = "I could hear her voice."
+[params.work]
+  jobTitle = "writer"
+  company = "his own world"
+  companyUrl = "https://www.instagram.com/lucy_in.the_sky.with_diamonds_/"
