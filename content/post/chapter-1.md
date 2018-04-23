@@ -1,10 +1,9 @@
 ---
-title: "Chapter 1"
-date: 2018-04-18
-draft: false
+title: Chapter 1
+date: 2018-04-18 00:00:00 +0000
+draft: true
+
 ---
-
-
 # The Dream
 
 The wind blew heavily on my cheeks. The descending rays of the sunset kept me calm. Not having any idea of how I got here, I start to walk. The reflection of the sun glimmers on the lake to my left. Despite all these beautiful phenomenon, I feel a sense of fear.  Why though? Is something bad going to happen?
