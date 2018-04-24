@@ -1,11 +1,13 @@
 +++
-date = "2018-04-23T00:00:00Z"
+date = "2018-04-23"
 title = "Chapter 2"
 
 +++
 # The Beach
 
-I sat on my Black Royal Enfield, plugged the left ear pod into my left ear and let the other one around my neck hanging along my right chest. Then I put my open faced helmet on and adjusted it to perfect my vision. 
+[https://www.instagram.com/p/Bh8LOFDDFarZD-paZmHAFU4oVGyOHXn4jl8SLc0/](https://www.instagram.com/p/Bh8LOFDDFarZD-paZmHAFU4oVGyOHXn4jl8SLc0/ "https://www.instagram.com/p/Bh8LOFDDFarZD-paZmHAFU4oVGyOHXn4jl8SLc0/")
+
+I sat on my Black Royal Enfield, plugged the left ear pod into my left ear and let the other one around my neck hanging along my right chest. Then I put my open faced helmet on and adjusted it to perfect my vision.
 
 I took my phone out of my pocket to look at the time. It was 7.30 PM. I opened the music player and hit the shuffle. _Hey there Delilah_ by the Plain White T’s began playing. Getting into the mood of the song. I started the ignition. Shifted to first gear and began my ride to the beach.
 
@@ -15,7 +17,7 @@ Listening to the songs and enjoying the cool winds of November along the shores 
 
 As soon I saw it, I had a quick vision. It was a quick as the light from the lighthouse that passes across you. I was standing on the railing of a lighthouse looking out at the sea. It felt like the same tropical scene from my dream. But this time, the skies were black, it was dawn. The stars were glowing brightly and the humming from the dream earlier could be heard echoing the space across the sea.
 
-But, like I said, the vision was very quick. Right now, I was just standing in the middle of the beach like an idiot. I shook my head in disbelief, but then I chuckled and scratched my beard reassuring myself that it was all in my head. I went ahead and sat down close to the shore. 
+But, like I said, the vision was very quick. Right now, I was just standing in the middle of the beach like an idiot. I shook my head in disbelief, but then I chuckled and scratched my beard reassuring myself that it was all in my head. I went ahead and sat down close to the shore.
 
 As I was listening to the sound of waves, I remembered that whenever I visited the beach with my buddies, I would tell them that there is nothing more peaceful that the sound of the waves. The water, dancing along with the reflection of the sun.
 
@@ -27,13 +29,13 @@ I was sitting there observing all the distant lights, the lights from the ships 
 
 “Shiva!” this time from a different voice, a more familiar one.
 
-I turned around with a mixed feeling of shock, excitement and curiosity. Thank god, it was AK. There was another figure standing next to him. 
+I turned around with a mixed feeling of shock, excitement and curiosity. Thank god, it was AK. There was another figure standing next to him.
 
-“What’s up brother?” the other guy asked. 
+“What’s up brother?” the other guy asked.
 
-I looked up to see who it was. It was Noah. Oh! How glad I was to see him. He is my other best friend. He is the one I go to whenever I needed to talk about something with a more philosophical perspective. He understands these things. 
+I looked up to see who it was. It was Noah. Oh! How glad I was to see him. He is my other best friend. He is the one I go to whenever I needed to talk about something with a more philosophical perspective. He understands these things.
 
-He is also a brilliant computer programmer by profession and is very passionate about what he does, but of course, he had to have a flaw. The asshole was emotionally unstable and was too bad at handling it. 
+He is also a brilliant computer programmer by profession and is very passionate about what he does, but of course, he had to have a flaw. The asshole was emotionally unstable and was too bad at handling it.
 
 He was away for two weeks for an official trip and man, I missed him. I had so much to tell him, especially now with dreams and visions and the callings. He was wearing clothes that were weird and made no sense. He has a really bad taste in fashion.
 
@@ -45,7 +47,7 @@ AK smiled and sat down to my right, and Noah sat down to my right. I looked at t
 
 “So you know about the dream?” I asked.
 
-Noah nodded positively. 
+Noah nodded positively.
 
 “Well, then I may very tell you guys what happened after that.” I said.
 
@@ -53,11 +55,11 @@ AK and Noah gave each other a look and they waited for me to talk.
 
 “Well?” AK prompted.
 
-“Well- “ 
+“Well- “
 
-I told them everything of what happened after the call, from the rum drinking, to the happenings inside the dream, the humming, the house, the swing and of course, the whispers. 
+I told them everything of what happened after the call, from the rum drinking, to the happenings inside the dream, the humming, the house, the swing and of course, the whispers.
 
-Then I also said them about the vision I had of the lighthouse. They listened to everything I said patiently. 
+Then I also said them about the vision I had of the lighthouse. They listened to everything I said patiently.
 
 “Noah, He is going crazy man.” AK joked.
 
@@ -65,7 +67,7 @@ I rolled my eyes, somehow knowing that this is what he was going to say.
 
 “Dude, I know this all sounds stupid and unrealistic. But I am just telling you what I am going through.” I asked.
 
- “See. If it’s a dream, it’s a dream. Weird shit happens in a dream. I have had a dream where a shadow came into my room and started to strangle me, I couldn’t move or shout. It was really scary. But in the end, it was a dream. But all these talks about visions are not convincing me” He said cynically shrugging his beard.
+“See. If it’s a dream, it’s a dream. Weird shit happens in a dream. I have had a dream where a shadow came into my room and started to strangle me, I couldn’t move or shout. It was really scary. But in the end, it was a dream. But all these talks about visions are not convincing me” He said cynically shrugging his beard.
 
 “Sleep Paralysis.” Noah said calmly, staring at the shore.
 
@@ -101,7 +103,7 @@ Then he turned to me and said “You, on the other hand. What you experienced I 
 
 “Yeah, we shall” said AK contently as we all proceeded to get up.
 
-As we started to walk away from the shore, I looked back at the beach to see if the light was there. Unfortunately, it wasn’t there. 
+As we started to walk away from the shore, I looked back at the beach to see if the light was there. Unfortunately, it wasn’t there.
 
 “What are you looking at?” AK asked snapping his fingers near my left ear.
 
@@ -119,9 +121,9 @@ As we started to walk away from the shore, I looked back at the beach to see if 
 
 “I have an Idea” he said and gave a pass of two seconds. “But, let’s go get the shawarmas first. I am damn hungry”.
 
-We walked for about 5 minutes to reach our usual shawarma joint. They were on the streets near Elliot’s beach. This joint serves the juiciest shawarmas in all of Chennai. As soon as we entered the shop, the smell of the meat, mixed with chili mayonnaise started to mesmerize our souls. 
+We walked for about 5 minutes to reach our usual shawarma joint. They were on the streets near Elliot’s beach. This joint serves the juiciest shawarmas in all of Chennai. As soon as we entered the shop, the smell of the meat, mixed with chili mayonnaise started to mesmerize our souls.
 
-AK went to the counter and ordered three shawarmas, one for each of us. He looked back at us and gave a thumbs up and smile, a smile that made his dimples go very deep. You can the AK’s happiest smile when his food is getting ready. AK is the positive energy that kept our group together always. 
+AK went to the counter and ordered three shawarmas, one for each of us. He looked back at us and gave a thumbs up and smile, a smile that made his dimples go very deep. You can the AK’s happiest smile when his food is getting ready. AK is the positive energy that kept our group together always.
 
 Me and Noah, though we haven’t had fallouts before, thanks to AK, were always having some nasty arguments as I didn’t like the way his girlfriends used to control him. But AK was always there, turning the most serious of any situation to a casual discussion, ending in laughter. I am gifted to have both of ‘em.
 
@@ -145,7 +147,7 @@ AK got the food by the time and he came to us.
 
 “We are going on a holiday. We are going to Kerala.” I asked winking at him.
 
-“Not we.” Noah interrupted. 
+“Not we.” Noah interrupted.
 
 “I just got back from there, my manager won’t allow it. You guys can go, I’ll join you guys after a week.” He said.
 
@@ -157,7 +159,7 @@ AK got the food by the time and he came to us.
 
 “Well then, let’s have the shawarma” He said proceeding to give us our pieces.
 
-We started walking to the beach again, excitedly unwrapping the shawarma. I took a bite of it. Oh wow, it was heaven. The mayonnaise and the chicken were juicy as fuck. Thank god for shawarmas. 
+We started walking to the beach again, excitedly unwrapping the shawarma. I took a bite of it. Oh wow, it was heaven. The mayonnaise and the chicken were juicy as fuck. Thank god for shawarmas.
 
 “So, when are we starting? And what’s the plan?” AK asked.
 
@@ -177,7 +179,7 @@ Noah chuckled.
 
 “Great!” we both remarked at the same time.
 
-We started to walk along the shore, the winds breezily blowing on our faces, giving us a feel of comfort and closure. At the far end of the beach was the lighthouse. I have always wanted to stand on top a lighthouse. 
+We started to walk along the shore, the winds breezily blowing on our faces, giving us a feel of comfort and closure. At the far end of the beach was the lighthouse. I have always wanted to stand on top a lighthouse.
 
 “Noah, why haven’t we ever tried to get on the lighthouse?” I asked Noah curiously.
 
@@ -209,11 +211,11 @@ I glared at Noah angrily.
 
 I was in no mood to get into an argument. I was too preoccupied within my own trance about the dream.
 
-AK started to joke about Noah’s girlfriend as usual. It all was going smooth until something started to happen. I really wish it didn’t happen in the real world but it. 
+AK started to joke about Noah’s girlfriend as usual. It all was going smooth until something started to happen. I really wish it didn’t happen in the real world but it.
 
-The humming. I could hear it. Noah and AK started to walk ahead of me as I stood still. I closed my eyes to concentrate on the hum. Slowly, I started to realize that it was coming from the shore. 
+The humming. I could hear it. Noah and AK started to walk ahead of me as I stood still. I closed my eyes to concentrate on the hum. Slowly, I started to realize that it was coming from the shore.
 
-Highly puzzled, I looked in the direction I thought the humming was coming from. The green light reappeared shining brighter than earlier. It was floating along the horizon, gently descending down like a setting sun, only to get hidden by the silhouette of a woman. She was standing there on shore, the water coming and gently kissing her feet. 
+Highly puzzled, I looked in the direction I thought the humming was coming from. The green light reappeared shining brighter than earlier. It was floating along the horizon, gently descending down like a setting sun, only to get hidden by the silhouette of a woman. She was standing there on shore, the water coming and gently kissing her feet.
 
 She slightly turned her head and looked at me. Her face wasn’t visible as it was really dark. But I knew who it was. She was wearing the same black gown she was wearing in my dream. She kept humming as she was looking at me. It felt very cold, her stare. Then she stopped humming, only the sound of the waves were evident. She then turned towards the shore and started to descend into the water.
 
@@ -227,20 +229,20 @@ I started to run towards her, I desperately wanted to know who she was. I wanted
 
 “Save who?” AK shouted back.
 
-I didn’t have time to respond. She was very deep into the water but it seemed like the water was dancing with her. 
+I didn’t have time to respond. She was very deep into the water but it seemed like the water was dancing with her.
 
 “Stop!” I screamed as loud as I could.
 
-She turned back and looked at me, with her usual stare than stunned me. I didn’t notice the rock that was in front of me and by the time I realized, my leg hit on the rock. I lost my momentum and I tripped. 
+She turned back and looked at me, with her usual stare than stunned me. I didn’t notice the rock that was in front of me and by the time I realized, my leg hit on the rock. I lost my momentum and I tripped.
 
 My face hit the sand, I was completely disturbed. With only a little energy left in me, I lifted my head and saw the shore. Of course she was gone. Struggling, I lifted myself up. People were staring at me like I was crazy. I don’t know maybe I am.
 
 Noah and AK were standing closer to me, looking dazed and confused. Before they could say anything, I walked to them, patting my body to clear them off the sands. Then I looked at them and said:
 
-“Well! Let’s go pack. Lot of work to be done.” 
+“Well! Let’s go pack. Lot of work to be done.”
 
 They both saw each other and then looked back at me.
 
-“I know!” I sighed. 
+“I know!” I sighed.
 
 Then I looked back at shore, at the waves, at all the emptiness.
