@@ -5,6 +5,8 @@ date: 2018-04-18 00:00:00 +0530
 ---
 # The Dream
 
+[https://www.instagram.com/p/Bh5lWd7DenTnz2u0FFqD3F-BLXHusRBcjq9n0U0/](https://www.instagram.com/p/Bh5lWd7DenTnz2u0FFqD3F-BLXHusRBcjq9n0U0/ "https://www.instagram.com/p/Bh5lWd7DenTnz2u0FFqD3F-BLXHusRBcjq9n0U0/")
+
 The wind blew heavily on my cheeks. The descending rays of the sunset kept me calm. Not having any idea of how I got here, I start to walk. The reflection of the sun glimmers on the lake to my left. Despite all these beautiful phenomenon, I feel a sense of fear.  Why though? Is something bad going to happen?
 
 Then I felt something, something that was not present before. I see to my right and there is this intriguing building. It was so beautiful, I was being pulled towards it by some unknown force. But as I was getting close to the building, I started shivering. It got worse as I got closer. I couldn’t feel my skins anymore and despite the sun, the warmth that everything around me could feel, I felt really cold.
